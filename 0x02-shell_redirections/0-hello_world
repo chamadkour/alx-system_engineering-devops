@@ -1,2 +1,2 @@
-printf("Hello, World")
->&1
+#!/bin/bash
+printf("Hello, World")>&1

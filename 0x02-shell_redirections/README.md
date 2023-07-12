@@ -1,0 +1,1 @@
+shell project about redirections
