@@ -1,1 +1,1 @@
-changing user to betty
+readme file for shell projects
